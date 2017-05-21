@@ -1,0 +1,5 @@
+package com.niit.service;
+
+public class ProductServiceImpl implements ProductService {
+
+}
